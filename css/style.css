@@ -34,7 +34,7 @@ p {
 }
 
 /* Mobile Phone Styles */
-@media only screen and (max-width: 375px) {
+ @media only screen and (max-width: 375px) {
   a {
     text-transform: uppercase;
     text-decoration: none;
@@ -396,10 +396,14 @@ p {
     left: 0;
   }
 
+  .footer-title {
+    text-align: left;
+  }
+
   .footer-tops {
-    display: flex;
     margin: 0 10%;
     padding: 64px 0 28px;
+    height: 50%;
   }
 
   .footer-img {
@@ -435,6 +439,17 @@ p {
     margin-bottom: 16px;
     color: #000;
     opacity: 0.5;
+  }
+
+  .page-titlez {
+    display: inline-block;
+    text-align: left;
+    margin-right: 750px;
+  }
+
+  .footer-icons {
+    display: inline-block;
+    text-align: right;
   }
 
   .block-anchor {
