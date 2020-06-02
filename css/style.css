@@ -359,7 +359,7 @@ p {
     background-color: #2d2640;
     margin: 0 10%;
     position: relative;
-    padding: 44px 80px;
+    padding: 54px 80px;
   }
 
   .bottom-section-pattern {
@@ -370,7 +370,7 @@ p {
 
   .bottom-section-txt {
     text-align: left;
-    font-size: 4rem;
+    font-size: 3.5rem;
     width: 58%;
   }
 
