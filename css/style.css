@@ -251,6 +251,11 @@ p {
     color: #fafafa;
   }
 
+  .btnTop:hover {
+    color: #fafafa;
+    background-color: #000;
+  }
+
   /* Top Section */
   .landing-picture-mobile, .top-mobile-pattern, .middle-div-pattern-mobile, .nav-pattern, .bottom-section-pattern-mobile, .footer-pattern-mobile {
     display: none;
